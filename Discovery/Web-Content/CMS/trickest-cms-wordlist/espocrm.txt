@@ -829,6 +829,7 @@ client/src/handlers/working-time-range.js
 client/src/handlers/note/record-detail-setup.js
 client/src/handlers/import.js
 client/src/handlers/admin/address-country/populate-defaults.js
+client/src/handlers/create-related/set-parent.js
 client/src/handlers/login.js
 client/src/handlers/navbar-menu.js
 client/src/handlers/select-related/same-account-many.js
@@ -7857,6 +7858,7 @@ application/Espo/Tools/CategoryTree/RebuildPaths.php
 application/Espo/Tools/CategoryTree/MoveService.php
 application/Espo/Tools/CategoryTree/Move/MoveParams.php
 application/Espo/Tools/CategoryTree/Move/LoopReferenceChecker.php
+application/Espo/Tools/CategoryTree/Record/ReadTreeParams.php
 application/Espo/Tools/UserSecurity/ApiService.php
 application/Espo/Tools/UserSecurity/TwoFactor/SmsService.php
 application/Espo/Tools/UserSecurity/TwoFactor/EmailService.php

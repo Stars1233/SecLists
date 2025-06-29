@@ -3429,7 +3429,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 /newsletter
 /newssearch
 /nightly-news
-/no-referrer-when-downgradehttp://globesimregistrations.ph/robots.txt
+/no-referrer-when-downgradehttp://gmail.com/robots.txt
 /no-search-results
 /node
 /node/add
@@ -4307,9 +4307,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?252525253Bpreview=
 ?=ref
 ?Author=
-?CMP
 ?EGOTECpage
-?ExternalDataReference
 ?LID=
 ?RefID=
 ?SESSION
@@ -4659,7 +4657,6 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 ?referralCode=*
 ?referrer=
 ?regcode*
-?region=
 ?rel
 ?reply=
 ?replytocom
@@ -6166,7 +6163,6 @@ ZipCodeLookupAjax
 [_0-9a-zA-Z]+/photo
 [_0-9a-zA-Z]+/status/[0-9]+/likes
 [_0-9a-zA-Z]+/status/[0-9]+/retweets
-[helpCenterIdentifier]
 [path]
 \+*\+
 _
@@ -6333,11 +6329,13 @@ _singlePage.html
 _smt=
 _sort
 _static
+_td
 _td_api
 _tdhl_api
 _tdpp_api
 _template
 _themes
+_uac/adpage.html
 _user/api
 _v1st
 _vercel/insights/view
@@ -6438,6 +6436,8 @@ about/careers/applications/jobs/results?page=
 about/faq/station-finder/?state-text=
 about/faq/station-finder/?zip-text=
 about/images
+about/leadership-university-administration/board-of-trustees/newsletter
+about/news-publications/news/search
 about/team_member
 about?
 aboutus
@@ -6706,6 +6706,8 @@ admin/*
 administration
 administrator
 adminusers
+admissions/undergraduate-admissions
+admissions/undergraduate-admissions.html
 adobe/dynamicmedia/deliver/
 adredir?
 adresa-segmentator
@@ -6882,6 +6884,7 @@ allset
 als/shakespeare_pilot
 alumni
 alumni-subscriptions
+alumni/the-hub
 am-cookie-helper
 am-sonntag/vorproduktion
 amazon-chat
@@ -6973,6 +6976,7 @@ api/census/button-render
 api/data_homepage.do
 api/discover/sites
 api/discovery
+api/ecommerce/bag
 api/editionurlgenerator
 api/extensions/1.0/extensions
 api/federation
@@ -7125,9 +7129,7 @@ arama
 archive
 archive$
 archive/api/image.jpg
-archive/article
 archive/graphs.php
-archive/page
 archive/project/sovsport$
 archived
 archived$
@@ -7150,11 +7152,7 @@ article/HUG
 article/PR-CO
 article/api
 article/beta
-article/category
 article/preview
-article/this-article-has-been-deleted
-article/this-article-has-been-removed
-article/this-article-is-no-longer-available
 article_count
 article_email
 articlecomment/
@@ -7213,7 +7211,6 @@ assets/dist
 assets/dist/css/asana-apps.css
 assets/dist/css/asana-guide.css
 assets/docs
-assets/dotforms
 assets/export
 assets/files
 assets/hk-grotesk
@@ -7607,6 +7604,7 @@ backstage/api/
 bad-boys
 bad-boys-ii
 badges/profile/create
+baidu
 bal/impression
 bal/impression/RecordImpression.htm?
 ban-me-i-am-a-robot
@@ -7864,6 +7862,7 @@ blog/30-updates-recent-features-and-fixes-in-figma/$
 blog/36-questions-to-fall-back-in-love-with-tech/$
 blog/3d-design/$
 blog/5-things-designers-need-to-know-for-a-smooth-handoff/$
+blog/6-skills-every-engineer-needs-for-the-ai-era/$
 blog/7-moments-that-shaped-figma/$
 blog/8-ways-to-build-with-figma-make/$
 blog/8-ways-to-craft-an-unforgettable-config-talk/$
@@ -8726,6 +8725,7 @@ build
 build.xml
 builders
 bundle-next
+bursar
 bus/api
 bus/orders
 buscar
@@ -12085,6 +12085,7 @@ cpds2
 cpp/docs/reference
 cpp/docs/reference/*/latest
 cpresources
+cpro
 cpropub/univercd
 cpspa
 cr$
@@ -13020,6 +13021,12 @@ demo/$
 demonstration
 demos/dev-mode-design/$
 demos/dev-mode-developers/$
+dental/dh
+dental/endo
+dental/histo
+dental/intranet
+dental/perio
+dental/students
 denver
 depth--
 design
@@ -13494,7 +13501,6 @@ edit/review
 edit/success
 editing
 editing/EditHomeFacts.htm
-edition/null
 editionssi
 editor
 editor.jsp
@@ -14768,6 +14774,9 @@ es-es/reports/drive-design-system-adoption/$
 es-es/reports/getting-started-with-design-systems/$
 es-es/reports/measure-design-system-roi/$
 es-es/reports/takeaways-from-customers-using-dev-mode/$
+es-es/resource-library/diagramas-de-alineacion-explicados/$
+es-es/resource-library/diferencia-entre-ui-y-ux/$
+es-es/resource-library/que-es-diseno-de-reticulas/$
 es-es/resource-library/social-media/$
 es-es/resource-library/social-media/facebook-size-guide/$
 es-es/resource-library/social-media/google-display-ad-sizes/$
@@ -14911,6 +14920,8 @@ es-la/reports/drive-design-system-adoption/$
 es-la/reports/getting-started-with-design-systems/$
 es-la/reports/measure-design-system-roi/$
 es-la/reports/takeaways-from-customers-using-dev-mode/$
+es-la/resource-library/diagramas-de-alineacion-explicados/$
+es-la/resource-library/que-es-wireframing/$
 es-la/resource-library/social-media/$
 es-la/resource-library/social-media/facebook-size-guide/$
 es-la/resource-library/social-media/google-display-ad-sizes/$
@@ -15446,6 +15457,7 @@ f
 f%5B
 f/*/*?modal
 f/*/cl
+f/*/donate
 f/*/donate/sign-in
 f/*/e
 f/*/fb
@@ -15489,8 +15501,10 @@ fanbox/tag
 fantastic-beasts-and-where-to-find-them
 faq
 faq_search.php
+faqs/search
 fashion/lookbook/38917
 fashion/search/models
+fast-facts
 fast-five
 fast-furious
 fastajax
@@ -15564,8 +15578,6 @@ feedback-service
 feedback/
 feedback/user_study
 feeds
-feeds.thetimes.com/puzzles
-feeds.thetimes.com/timescrossword
 feeds/
 feeds/*
 feeds/TechNet/fr-fr/screenshot/screenshot%20surface.jpg
@@ -17535,13 +17547,13 @@ forums/create/question
 forums/login
 forums/preferences
 forums/profile
+forward
 foryou
 fos/icn/
 fotos/es/*+
 foundation/contact
 fourinthemorning
 foxtrotcallback=
-fp_ms
 fp_ms/_rcv/remote?
 fpc/
 fpjs
@@ -17891,8 +17903,10 @@ fr-fr/resource-library/how-to-write-smart-goals/$
 fr-fr/resource-library/quest-ce-que-le-wireframing/$
 fr-fr/resource-library/social-media/$
 fr-fr/resource-library/social-media/facebook-size-guide/$
+fr-fr/resource-library/social-media/google-display-ad-sizes/$
 fr-fr/resource-library/social-media/instagram-photo-size/$
 fr-fr/resource-library/social-media/linkedin-size-guide/$
+fr-fr/resource-library/social-media/pinterest-image-sizes/$
 fr-fr/resource-library/social-media/soundcloud-banner-size/$
 fr-fr/resource-library/social-media/twitch-banner-size/$
 fr-fr/resource-library/social-media/twitter-banner-size/$
@@ -18982,6 +18996,7 @@ homeimprovement/EmbeddedProfile.htm
 homeloans/*zga_z_guid=
 homepage
 homepage-video-test
+homepage/
 homepage/2013
 homepage/HomepageVideoMetrics.htm
 homes
@@ -19122,7 +19137,6 @@ http://smithsonianmag.com/robots.txt
 http://static.wixstatic.com/robots.txt
 http://techradar.com/robots.txt
 http://teenage.engineering/robots.txt
-http://theverge.com/robots.txt
 http://threads.net/robots.txt
 http://tracks.arte.tv/robots.txt
 http://weebly.com/robots.txt
@@ -19656,7 +19670,6 @@ infinite-scroll-recipe
 infinite-scroll-review
 info
 info/customerror.htm*
-info/p.gif
 info/smart404.asp*
 info/tech-feedback
 infografik
@@ -19694,7 +19707,6 @@ intelligencer/amp
 intent
 interactive*http://fda.gov/robots.txt
 interactive/reading-preference
-interactives
 intercept
 internal
 internal-api
@@ -20281,6 +20293,8 @@ ja-jp/reports/japan-design-growth-story-apac-report/$
 ja-jp/reports/measure-design-system-roi/$
 ja-jp/reports/product-leaders-ai/$
 ja-jp/reports/takeaways-from-customers-using-dev-mode/$
+ja-jp/resource-library/alignment-charts-explained/$
+ja-jp/resource-library/difference-between-ui-and-ux/$
 ja-jp/resource-library/social-media/$
 ja-jp/resource-library/social-media/facebook-size-guide/$
 ja-jp/resource-library/social-media/google-display-ad-sizes/$
@@ -20291,6 +20305,7 @@ ja-jp/resource-library/social-media/soundcloud-banner-size/$
 ja-jp/resource-library/social-media/twitch-banner-size/$
 ja-jp/resource-library/social-media/twitter-banner-size/$
 ja-jp/resource-library/social-media/youtube-banner-size/$
+ja-jp/resource-library/what-is-wireframing/$
 ja-jp/search
 ja-jp/searchresults
 ja-jp/security/$
@@ -20796,6 +20811,8 @@ ko-kr/reports/measure-design-system-roi/$
 ko-kr/reports/product-leaders-ai/$
 ko-kr/reports/supercharging-design-in-korea/$
 ko-kr/reports/takeaways-from-customers-using-dev-mode/$
+ko-kr/resource-library/alignment-charts-explained/$
+ko-kr/resource-library/difference-between-ui-and-ux/$
 ko-kr/resource-library/social-media/$
 ko-kr/resource-library/social-media/facebook-size-guide/$
 ko-kr/resource-library/social-media/google-display-ad-sizes/$
@@ -20806,6 +20823,7 @@ ko-kr/resource-library/social-media/soundcloud-banner-size/$
 ko-kr/resource-library/social-media/twitch-banner-size/$
 ko-kr/resource-library/social-media/twitter-banner-size/$
 ko-kr/resource-library/social-media/youtube-banner-size/$
+ko-kr/resource-library/what-is-wireframing/$
 ko-kr/search
 ko-kr/searchresults
 ko-kr/security/$
@@ -21212,6 +21230,7 @@ limited-release
 link
 link-intersect
 link-intersect/$
+link?
 link_to
 linked
 linkedin
@@ -21264,7 +21283,6 @@ loc/volunteers
 loc=
 local
 local
-local$
 local-services-ads
 local/*/all-deals
 local/*/goods
@@ -21319,7 +21337,6 @@ login.php*&next=
 login.php/?next=
 login.php?next=
 login.php?return_to=
-login.thetimes.com/user/logout
 login/
 login/$
 login/*&next=
@@ -21849,6 +21866,7 @@ mld?
 mlt
 mm
 mm/
+mm_track
 mmend.htm$
 mms
 mn
@@ -22108,7 +22126,6 @@ mx/your
 my
 my-account
 my-agent/eligibility
-my-articles
 my-eurlex
 my-library
 my-library
@@ -22354,7 +22371,6 @@ news/go
 news/image
 news/images
 news/intelligencer/16951
-news/m
 news/page
 news/politics/0,1283,48946,00.html
 news/politics/0,1283,49132,00.html
@@ -22381,6 +22397,7 @@ newsletters/kiosk
 newsletters/preferences/manage
 newsletters/preferences/unsubscribe
 newspaper/archive
+newsreleases/search
 newsroom/$
 newsroom/ctr
 newsroom/dae
@@ -22754,6 +22771,7 @@ nwshp$
 nxs-video-player
 nymag/columns/intelligencer/features/16951
 nymag/letters/14872
+nyucard/campuscash/admin
 nz
 nz$
 nz*/listing/*/favoriters
@@ -23321,6 +23339,7 @@ parental-consent/confirmation
 parental-passcode
 parents/activity-finder
 parents/search
+parking.php4
 parliament/public/traineeship/secured/
 parliament/public/transltraineeship/secured
 partNumber=
@@ -23358,9 +23377,6 @@ password
 password-changed-email
 password/reset
 password_expired
-past-six-days
-past-six-days$
-past-six-days/$
 patent
 patent-search/frontend
 patents
@@ -23454,6 +23470,7 @@ personalize/addFavoritePublication
 personalrecommend
 perspectiva
 perspective
+perspectives/search
 pesquisar
 petites-annonces
 pf/api
@@ -23720,7 +23737,6 @@ play
 play/store/web
 play/surveys/serp
 player
-player/brightcove
 player/metadata/video
 playerColor=
 playing-house
@@ -24188,6 +24204,7 @@ projects/embed
 projects/geo/download
 projects/geo/tools
 projects/gtr/gt
+projects/help/rest-api/
 projects/php-asp/dating-sites
 projects/php-asp/dating-sites?
 projects/php-asp/restaurant-directory.7
@@ -24442,6 +24459,9 @@ pt-br/reports/drive-design-system-adoption/$
 pt-br/reports/getting-started-with-design-systems/$
 pt-br/reports/measure-design-system-roi/$
 pt-br/reports/takeaways-from-customers-using-dev-mode/$
+pt-br/resource-library/diferenca-entre-ui-e-ux/$
+pt-br/resource-library/graficos-de-alinhamento-explicados/$
+pt-br/resource-library/o-que-e-wireframing/$
 pt-br/resource-library/social-media/$
 pt-br/resource-library/social-media/facebook-size-guide/$
 pt-br/resource-library/social-media/google-display-ad-sizes/$
@@ -24582,6 +24602,7 @@ public
 public-api
 public-data-sets/applicants/
 public-data-sets/terms/
+public.affairs/gata
 public.api
 public/*.css$
 public/*.css?
@@ -24610,6 +24631,7 @@ publications/ja/
 publications/pt/
 publicdatasets-confirmation/
 publicliterature.PublicLiterature.search.html
+publicnotices/notices-search
 publicsearch
 publish
 publish$
@@ -25254,6 +25276,8 @@ reservations/*/notifyme
 reset
 reset-password
 reset?
+residential.education/archive
+residential.education/templates
 resource
 resource-library/$
 resource-library/*?
@@ -25285,6 +25309,7 @@ resource-library/design-research/$
 resource-library/diagramming/$
 resource-library/difference-between-ui-and-ux/$
 resource-library/empathy-map/$
+resource-library/facebook-ad-examples/$
 resource-library/facebook-post-examples/$
 resource-library/fitts-law/$
 resource-library/flowchart-symbols/$
@@ -25311,6 +25336,7 @@ resource-library/how-to-design-a-logo/$
 resource-library/how-to-design-a-resume/$
 resource-library/how-to-design-an-app/$
 resource-library/how-to-increase-productivity/$
+resource-library/how-to-make-a-brochure/$
 resource-library/how-to-make-a-business-website/$
 resource-library/how-to-make-a-concept-map/$
 resource-library/how-to-make-a-mood-board/$
@@ -25781,6 +25807,7 @@ s3
 s=
 s=p
 s?
+s?
 s?*rh=n%3A1380045031
 s_id=
 sa
@@ -26089,7 +26116,6 @@ search/audio
 search/audio?k=
 search/autocomplete
 search/autosuggest
-search/browse-by-day
 search/browse/HDPTree,*Border.*debug*DebugBar.*InspectorButton.link.sdirect
 search/buyeroffers/*.html
 search/buyeroffers/*/*.html
@@ -26142,7 +26168,6 @@ searchProvider*feature_six_browse-bin
 searchTerm=
 search\?
 search_history
-search_ms
 search_results
 search_results/gigs
 search_rss$
@@ -26370,6 +26395,7 @@ sharing/folders
 shelf/user_shelves
 shenghuo
 shenghuo/search?
+shifen/
 shihui
 shihui?
 ship
@@ -27007,6 +27033,7 @@ specializations-perf
 specialoffers
 specials
 specific
+speeches/search
 speed
 speed-test-parent/
 spf=
@@ -27045,7 +27072,6 @@ sports/hockey/whatson
 sports/includes
 sports/nfl/includes
 sports/whatson
-sports_fp_ms
 spot
 spreadsheet
 spresults
@@ -27497,6 +27523,7 @@ surveys-360
 surveys/
 suspended_tickets
 suspension-appeal
+sustainability
 sutils
 sv-SE/android/collections
 sv-SE/android/search
@@ -27633,6 +27660,7 @@ tag/*+http://dinotim.com/robots.txt
 tag/*/shoutbox
 tag/*/shoutbox?
 tag/credible
+tag/expire-images
 tag/interaction-card
 tag/js
 tag/search/db-home
@@ -27697,7 +27725,6 @@ tblang=
 tbproxy
 tdid=*
 tdir/p/kids-back-to-school
-tdv2_fp
 te/forums
 te/kb/*/discuss
 te/search
@@ -28133,7 +28160,7 @@ test.html
 test_community
 testfl
 testgpr
-testhttp://moskva.stroi-podryad.ru/robots.txt
+testhttp://monroewvhistory.org/robots.txt
 testing
 testpage-forhomepage
 tests/*
@@ -28423,7 +28450,6 @@ topic/*seo9*
 topic/*{*
 topic/article/
 topic/articlecollection
-topic/bbc
 topic/collection
 topic/electrode/api/logger
 topic/electrode/api/wpa
@@ -28515,6 +28541,7 @@ tracky
 tractive
 trade
 tradeoffer
+traffic
 training-plans
 training/
 training/ajax
@@ -28647,7 +28674,6 @@ try-search-term
 try?
 trylater
 tsa
-tto
 tucritica
 tune*retpath=
 turbo
@@ -28832,6 +28858,7 @@ uk/zazzle
 uki/search
 ul
 uli/trac
+ulink?
 ulk/i
 ulk/sch
 ulk/usr
@@ -29591,6 +29618,8 @@ w/api.php?action=mobileview&
 w/load.php?
 w/users/user_hints
 w3
+wagner/newsite
+wagner/newsiteTEST
 wai-conformance-model-test
 walking-tall
 walkscore
@@ -30559,7 +30588,6 @@ wp-admin
 wp-admin/
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
-wp-admin/admin-ajax.phphttp://rtbf.be/robots.txt
 wp-admin/admin-ajax.phphttp://starbucks.com/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
@@ -30763,7 +30791,7 @@ your
 your-account
 your-shop
 youreurope/businessACC
-youreurope/businessDEV/http://europarl.europa.eu/robots.txt
+youreurope/businessDEV/http://eur-lex.europa.eu/robots.txt
 youreurope/citizensACC
 youreurope/citizensDEV
 yours
