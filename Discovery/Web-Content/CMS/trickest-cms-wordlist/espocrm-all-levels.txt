@@ -10110,6 +10110,13 @@ Espo/Core/MassAction/ServiceResult.php
 Core/MassAction/ServiceResult.php
 MassAction/ServiceResult.php
 ServiceResult.php
+application/Espo/Core/Upgrades/Migrations/V9_2/AfterUpgrade.php
+Espo/Core/Upgrades/Migrations/V9_2/AfterUpgrade.php
+Core/Upgrades/Migrations/V9_2/AfterUpgrade.php
+Upgrades/Migrations/V9_2/AfterUpgrade.php
+Migrations/V9_2/AfterUpgrade.php
+V9_2/AfterUpgrade.php
+AfterUpgrade.php
 application/Espo/Core/Upgrades/Migrations/V8_0/AfterUpgrade.php
 Espo/Core/Upgrades/Migrations/V8_0/AfterUpgrade.php
 Core/Upgrades/Migrations/V8_0/AfterUpgrade.php
@@ -34476,6 +34483,11 @@ Espo/Hooks/Common/NextNumber.php
 Hooks/Common/NextNumber.php
 Common/NextNumber.php
 NextNumber.php
+application/Espo/Hooks/Common/CallDeferredActions.php
+Espo/Hooks/Common/CallDeferredActions.php
+Hooks/Common/CallDeferredActions.php
+Common/CallDeferredActions.php
+CallDeferredActions.php
 application/Espo/Hooks/Common/FieldProcessing.php
 Espo/Hooks/Common/FieldProcessing.php
 Hooks/Common/FieldProcessing.php

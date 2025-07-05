@@ -1784,6 +1784,7 @@ application/Espo/Core/MassAction/Actions/MassFollow.php
 application/Espo/Core/MassAction/Actions/MassUpdate.php
 application/Espo/Core/MassAction/Service.php
 application/Espo/Core/MassAction/ServiceResult.php
+application/Espo/Core/Upgrades/Migrations/V9_2/AfterUpgrade.php
 application/Espo/Core/Upgrades/Migrations/V8_0/AfterUpgrade.php
 application/Espo/Core/Upgrades/Migrations/V7_4/AfterUpgrade.php
 application/Espo/Core/Upgrades/Migrations/V8_4/AfterUpgrade.php
@@ -5766,6 +5767,7 @@ application/Espo/Hooks/Common/Webhook.php
 application/Espo/Hooks/Common/Collaborators.php
 application/Espo/Hooks/Common/Formula.php
 application/Espo/Hooks/Common/NextNumber.php
+application/Espo/Hooks/Common/CallDeferredActions.php
 application/Espo/Hooks/Common/FieldProcessing.php
 application/Espo/Hooks/Common/Stream.php
 application/Espo/Hooks/Common/ForeignFields.php
